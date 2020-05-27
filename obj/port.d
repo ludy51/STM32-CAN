@@ -1,0 +1,10 @@
+..\obj\port.o: ..\FreeRTOS\port.c
+..\obj\port.o: ..\FreeRTOS\include\FreeRTOS.h
+..\obj\port.o: F:\KeilMDK5.1\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\port.o: ..\FreeRTOS\include\projdefs.h
+..\obj\port.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+..\obj\port.o: ..\FreeRTOS\include\portable.h
+..\obj\port.o: ..\FreeRTOS\include\portmacro.h
+..\obj\port.o: ..\FreeRTOS\include\mpu_wrappers.h
+..\obj\port.o: ..\FreeRTOS\include\task.h
+..\obj\port.o: ..\FreeRTOS\include\list.h
